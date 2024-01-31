@@ -30,7 +30,7 @@ public class Ruin {
 		for (int i=0; i<totalSimulations; i++) {
 			newstartAmount=startAmount;
 		
-		while ((newstartAmount < winLimit)&&(newstartAmount > 0))
+		while ((newstartAmount < winLimit)&&(newstartAmount > 0)) 
 		{
 			if(Math.random() < winChance) {
 				newstartAmount++;
