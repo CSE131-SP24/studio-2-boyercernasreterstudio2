@@ -5,6 +5,9 @@ import java.util.Scanner;
 public class Ruin {
 
 	public static void main(String[] args) {
+		
+		//hi
+		
 		Scanner in=new Scanner(System.in);
 		
 		System.out.println("What amount of $$$ do you want to start with?");
