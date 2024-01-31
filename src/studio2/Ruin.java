@@ -25,7 +25,7 @@ public class Ruin {
 		
 		System.out.println("How many days do you want to spend at the casino?");
 		
-		int totalSimulations = in.nextInt();
+		int totalSimulations = in.nextInt();   
 			
 		for (int i=0; i<totalSimulations; i++) {
 			newstartAmount=startAmount;
